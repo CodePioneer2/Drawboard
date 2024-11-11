@@ -29,14 +29,11 @@ open index.html
 
 ## Help
 
-Any advise for common problems or issues.
 ```
 Make sure you are opening index.html and all the files are in same location.
 ```
 
 ## Authors
-
-Contributors names and contact info
 
 CodePioneer2 
 Twitter (LINK)
@@ -48,5 +45,4 @@ Twitter (LINK)
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [The Odin Project](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
